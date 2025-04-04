@@ -11,7 +11,7 @@ But the most important change for enthusiasts and PC administrators is buried ha
 ## 🔧 Here's How to Continue Getting Around It
 
 1. Press `Shift + F10` during setup to open a command prompt.
-2. Run the following command: start ms-cxh:localonly
+2. Run the following command: start `ms-cxh:localonly`
 
 https://github.com/user-attachments/assets/67850d9c-93b6-43f4-b5b8-cc7c1f23db23
 
